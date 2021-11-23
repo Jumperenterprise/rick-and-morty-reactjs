@@ -1,3 +1,14 @@
+## Rick & Morty
+
+![alt text](https://i.ibb.co/r2hFDxk/Captura-de-pantalla-de-2021-10-13-15-56-08.png)
+
+
+This project was created with React Js.
+
+I used Rick and Morty API https://rickandmortyapi.com/
+
+
+## Developped with 🛠️
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +79,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Live Project
+(https://react-rick-and-morty-app.herokuapp.com/)
+
+
+## Autores ✒️
+
+* **Andrew Alfaro** - *Desarrollador JavaScript* (andrew.jumper.ent@gmail.com)
+
+## thanks for watching my project🎁
+
+* Comenta a otros sobre este proyecto 📢
+* Invita una cerveza 🍺 o un café ☕. 
+* Gracias por ver mi proyecto 🤓.
+
